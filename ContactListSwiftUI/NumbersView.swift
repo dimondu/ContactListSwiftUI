@@ -8,7 +8,7 @@
 import SwiftUI
 
 struct NumbersView: View {
-    var contacts: [Person]
+    let contacts: [Person]
     
     var body: some View {
         NavigationStack {
