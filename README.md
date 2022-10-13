@@ -1,4 +1,4 @@
-# ContactListSwiftUI Реализация проекта Списка контактов с помощью SwiftUI
+# Реализация проекта Списка контактов с помощью SwiftUI
 
 Вот версия проекта, реализованная на UIKit: https://github.com/dimondu/ContactList
 
